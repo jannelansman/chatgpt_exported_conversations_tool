@@ -1,4 +1,4 @@
-#  ChatGPT exported conversations search and rendering tool
+#  ChatGPT exported conversations - Search and Render
 ## Main notes
 * The tool is written in Python and made to be run in JupyterLab. I will likely post a CLI version later on, so that using JupyterLab wont be necessary.
 * The tool can read the `conversations.json` files exported from ChatGPT, find which conversations contain specified search strings, internally convert the conversations into Markdown, and render the Markdown in JupyterLab.
